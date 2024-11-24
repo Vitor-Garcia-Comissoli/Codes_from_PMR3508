@@ -7,3 +7,5 @@ Several programming exercises (EPs) developed for a College class (PMR 3508 - Ma
 - Pasta (Google Drive) do EP01: https://drive.google.com/drive/folders/1xQETUZHZYIxc4ms2SAU94QoTtm-IOCAq?usp=drive_link
 
 - Link do Kaggle para o EP01: https://www.kaggle.com/code/pmr35082022109/pmr-3508-2024-109-adult-knn
+
+- Link do Kaggle para o EP02: https://www.kaggle.com/code/pmr35082022109/pmr3508-2024-109-mnist
